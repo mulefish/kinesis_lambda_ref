@@ -18,6 +18,9 @@
   "homepage": "https://github.com/mulefish/kinesis_lambda_ref#readme",
   "dependencies": {
     "aws-sdk": "^2.1314.0",
+    "cli-select": "^1.1.2",
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0",
     "ws": "^8.12.0"
   }
 }
